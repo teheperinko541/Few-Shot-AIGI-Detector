@@ -30,7 +30,7 @@ To download [GenImage](https://arxiv.org/abs/2306.08571) dataset, please refer t
 
 ```
 data/
-|-- GenImage/test
+|-- GenImage/
 |   |-- ADM
 |   |   |--train
 |   |   |   |--0_adm_0.PNG
