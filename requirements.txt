@@ -1,0 +1,9 @@
+torch>=2.3.0
+torchvision
+torchmetrics
+timm
+einops
+dill
+tqdm
+scikit-learn
+matplotlib
