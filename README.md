@@ -32,16 +32,20 @@ To download [GenImage](https://arxiv.org/abs/2306.08571) dataset, please refer t
 data/
 |-- GenImage/
 |   |-- ADM
-|   |   |--train
+|   |   |--train/ai/
 |   |   |   |--0_adm_0.PNG
 |   |   |   |......
-|   |   |--val
+|   |   |--val/ai/
+|   |   |   |--0_adm_7.PNG
+|   |   |   |......
 |   |-- BigGAN
 |   |-- glide
 |   |-- Midjourney
 |   |-- SD
 |   |-- VQDM
 |   |-- real
+|   |   |--train/nature/
+|   |   |   |......
 ```
 
 Real data are those nature images from stable_diffusion_v_1_4 and stable_diffusion_v_1_5. 
